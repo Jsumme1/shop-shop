@@ -38,5 +38,3 @@ db.once('open', () => {
   });
 });
 
-
- // "build": "cd client && npm run build"
